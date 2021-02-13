@@ -1,4 +1,4 @@
-# <p align="center">Things Every RUby Developer Must Know:</p>
+# <p align="center">Things Every Ruby Developer Must Know:</p>
 ## First and foremost: Everything is an object.
 
 ### Commenting: 
